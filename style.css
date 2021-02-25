@@ -1,0 +1,201 @@
+html {
+    height: 100%;
+}
+
+body {
+    font-family: sans-serif;
+    
+    margin: 0;
+    padding: 0;
+    
+    height: 100%;
+}
+
+.body-home {
+    background-image: url('images/table%20with%20food.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.body-meals {
+    background-image: url('images/background%20image.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*========== HEADER ===========*/
+
+.header {
+    background-color: red;
+    
+    width: 100%;
+    height: 50px;
+    top: 0; 
+}
+
+/*========== HOME PAGE ===========*/
+
+#home-logo-img {
+    width: 120px;
+    display: block;
+    margin: auto;
+    padding: 25px 10px 10px 10px;
+}
+
+/*===== HOME PAGE MENU =====*/
+
+.home-menu-item {
+    text-decoration: none;
+    text-transform: uppercase;
+    
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid red;
+    
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 80%;
+}
+
+/*========== MEALS PAGE ===========*/
+
+
+/*===== MEALS PAGE MENU =====*/
+
+.meals-list a {
+    text-decoration: red;
+}
+
+.meals-list-item {
+    border: 5px solid black;
+    margin: 10px;
+}
+
+.meals-list-item h1 {
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+    padding-left: 10px;
+}
+
+.meals-list-item i {
+    float: right;
+    color: black;
+    padding: 20px;  
+}
+
+.meals-list-item p {
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+    margin-top: 7px;
+    padding-left: 10px; 
+}
+
+/*========== RECIPE PAGE ===========*/
+
+#recipe {
+    padding-top: 50px;
+}
+
+/*===== RECIPE DETAILS =====*/
+
+.recipe-details img {
+    width: 100%;
+}
+
+.recipe-details h1 {
+    font-size: 25px;
+    text-align: center;
+    border: 5px solid red;
+    margin: 10px;
+    padding: 5px;
+}
+
+.recipe-details h2 {
+    font-size: 20px;
+    text-align: left;
+    margin: 0;
+    margin-left: 10px;
+    
+}
+
+.recipe-details-info {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.recipe-details-info p {
+    font-size: 13px;
+}
+
+.recipe-details-ingredients label {
+    line-height: 25px;
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
